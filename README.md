@@ -1,6 +1,8 @@
 # FastAPI template repository
 
-The following README is what you should probably have in your project you are cloning this as. Make sure to change links and add/remove stuff as necessary.
+This is a template repository to be cloned and built upon when creating a new project. Environment is managed by poetry, templating by jinja, fastAPI for api, SQLite DB for development, PiccoloORM with its admin and more.
+
+Dev environment completely automatised on docker.
 
 ## API documentation
 
